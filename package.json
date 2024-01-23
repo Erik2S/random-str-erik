@@ -1,0 +1,24 @@
+{
+  "name": "random-str-erik",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik2S/random-str-erik.git"
+  },
+  "keywords": [],
+  "author": "Erik Dos Santos <2santoserik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erik2S/random-str-erik/issues"
+  },
+  "homepage": "https://github.com/Erik2S/random-str-erik#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
